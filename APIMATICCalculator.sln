@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMATICCalculator.Standard", "APIMATICCalculator.Standard/APIMATICCalculator.Standard.csproj", "{e67be00f-3228-4380-90d0-4c867d85d66b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMATICCalculator.Tests", "APIMATICCalculator.Tests/APIMATICCalculator.Tests.csproj", "{135c4efa-9b8c-4139-a4b7-da8e3845021d}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {e67be00f-3228-4380-90d0-4c867d85d66b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {e67be00f-3228-4380-90d0-4c867d85d66b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {e67be00f-3228-4380-90d0-4c867d85d66b}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {e67be00f-3228-4380-90d0-4c867d85d66b}.Release|Any CPU.Build.0 = Release|Any CPU
+        {135c4efa-9b8c-4139-a4b7-da8e3845021d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {135c4efa-9b8c-4139-a4b7-da8e3845021d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {135c4efa-9b8c-4139-a4b7-da8e3845021d}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {135c4efa-9b8c-4139-a4b7-da8e3845021d}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
